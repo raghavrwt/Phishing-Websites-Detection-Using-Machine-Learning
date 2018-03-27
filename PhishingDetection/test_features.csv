@@ -1,0 +1,2 @@
+URL,rank_host,rank_country,host,path,Length_of_url,Length_of_host,No_of_dots,avg_token_length,token_count,largest_token,avg_domain_token_length,domain_token_count,largest_domain,avg_path_token,path_token_count,largest_path,sec_sen_word_cnt,IPaddress_presence,ASNno,safebrowsing
+http://youtube.com,-1,-1,youtube.com,,18,11,1,4.666666666666667,3,7,5.0,2,7,0,0,0,0,0,-1,-1
